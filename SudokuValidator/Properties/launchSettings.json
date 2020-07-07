@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SudokuValidator": {
+      "commandName": "Project",
+      "commandLineArgs": "sudoku.txt"
+    }
+  }
+}
